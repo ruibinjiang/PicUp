@@ -1,13 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import Main from './App';
 import reportWebVitals from './reportWebVitals';
 
+import { BrowserRouter  } from 'react-router-dom';
+
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+
+  <BrowserRouter style={{
+      position: 'absolute', left: '50%', top: '50%',
+      transform: 'translate(-50%, -50%)'
+  }}>
+    <Main />
+  </BrowserRouter >,
   document.getElementById('root')
 );
 
