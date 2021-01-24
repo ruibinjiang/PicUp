@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Inspiration
+I have always wanted to try building apps with React, as well as experimenting with Firebase and Google Cloud. I was able to incorporate all of those things into one project with PicUp.
 
-You can use the [editor on GitHub](https://github.com/ruibinjiang/PicUp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## What it does
+Securely upload images to Google Cloud.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How I built it
+React for the frontend app UI and Firebase as the backend and cloud integration.
 
-### Markdown
+## Challenges I ran into
+I had never touched any of the tools or languages I used for this project. There were many useful resources out on the Internet, but the tools have been changing rapidly thanks to their popularity, which unfortunately leads to a lot of legacy examples that don't work with the latest releases. With only very basic Web Dev experience, I experienced a very steep learning curve to get started.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Accomplishments that I'm proud of
+I was able to produce a functional demo of the React + Firebase during a limited time span while working all by myself.
 
-```markdown
-Syntax highlighted code block
+## What I learned
+React, Firebase, Google Cloud APIs
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ruibinjiang/PicUp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## What's next for PicUp
+I was hoping to incorporate Google Cloud Vision API to analyze and catalog images that were uploaded.
