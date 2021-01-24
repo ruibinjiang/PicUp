@@ -1,5 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-src/config/constants.js"
+src/config/constants.js
 # dependencies
 /node_modules
 /functions/node_modules
